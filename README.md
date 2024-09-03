@@ -10,3 +10,4 @@ Cokoino Six  Axis Mechanical Robot ARM
 - ! Unzip the ZIP file instead of opening the file in the ZIP file directly.
 
 - ! Do not move, delete or rename files in the folder just unzipped.
+![Image text](https://github.com/Cokoino/Image/blob/main/CKK0017.png)
